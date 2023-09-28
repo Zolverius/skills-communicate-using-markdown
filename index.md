@@ -7,3 +7,6 @@ Added a title "Hello World" with the header tag.
 ``` javascript
 var myVar = "Hello, world!";
 ```
+- [x] Welcome
+- [x] to this
+- [ ] Blog!
